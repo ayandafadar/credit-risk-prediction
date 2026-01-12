@@ -1,0 +1,44 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+.dist/
+build/
+dist/
+*.egg-info/
+
+# Data files (add specific data files if needed)
+*.csv
+*.xlsx
+data/raw/
+data/processed/
+
+# Models
+models/*.pkl
+models/*.h5
+models/*.joblib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
