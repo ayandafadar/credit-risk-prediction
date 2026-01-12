@@ -56,12 +56,8 @@ credit-risk-prediction/
 └── requirements.txt   # Python dependencies
 ```
 
-## Contributing
+## Contributors
 
-1. Create a new branch for your feature
-2. Make your changes
-3. Submit a pull request
+1. Ayan Dafadar
+2. Rishab Aggarwal
 
-## License
-
-[Add your license here]
